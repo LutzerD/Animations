@@ -31,7 +31,7 @@ while(1):
 
 #	cv2.imshow('frame',frame)
 #	cv2.imshow('mask',mask)
-	cv2.imshow('res, ' + str(h),res)
+	cv2.imshow('res, ' + str(h),cv2.Canny(res,100,200))
 
 	#kernel = np.ones((5,5),np.uint8)
 

@@ -5,8 +5,6 @@
 -Random(gaussian) dodging elements
 -Like every n pixels, skip in the sort
 
--Face tracking -> blue to image roof
-
 
 
 
