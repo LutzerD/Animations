@@ -1,0 +1,12 @@
+-Melting???
+	-Was thinking  som form of vertical pixel moshing btu that's kinda wack
+
+-Circular / Radially out / Convergence of data moshing
+-Random(gaussian) dodging elements
+-Like every n pixels, skip in the sort
+
+
+
+
+-Terminal image viewer(lol)
+

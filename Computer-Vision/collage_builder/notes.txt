@@ -1,0 +1,8 @@
+collage builder
+idea: create an image out of similiar smaller images
+how?
+	-Take n images (all unique?) from google search of keyword(s)
+	-Take sub images from images (have a minimum resolution)
+	-Shrink target picture to some small resolution, like 100xN
+	-replace pixel with something else with roughly the same colour
+
